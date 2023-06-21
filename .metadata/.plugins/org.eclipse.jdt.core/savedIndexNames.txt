@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+D:\PC_CD\VID\Apr_Aut\SelfLearn\SL_012_Oracle_One_Next_Alura\G3_07082022\003_Java\A00_Oracle_Next_Alura_Java_G3_Code\.metadata\.plugins\org.eclipse.jdt.core
+765050405.index
+1865797976.index
+3959137331.index
